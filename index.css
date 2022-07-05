@@ -5,7 +5,11 @@ body {
 }
 
 .wide-half {
-    width: 90%;
+    width: 50%;
+}
+
+.wide-half img {
+    width: 100%;
 }
 
 #fristpara {
@@ -35,8 +39,8 @@ body {
 }
 
 #div-1 {
-    margin-left: 5%;
-    margin-right: 3%;
+    padding-left: 5%;
+    padding-right: 3%;
 }
 
 #div-1 h1 {
@@ -45,8 +49,9 @@ body {
 
 
 #about-img {
-    width: 50%;
+    width: 60%;
     padding-top: 5%;
+
 }
 
 #aboutpara {
