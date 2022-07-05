@@ -1,10 +1,11 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Prompt', sans-serif;
+    margin: 0%;
 }
 
 .wide-half {
-    width: 50%;
+    width: 90%;
 }
 
 #fristpara {
@@ -14,7 +15,7 @@ body {
 .button {
     background-image: linear-gradient(orange, red);
     text-decoration: none;
-    padding: 20px 30px;
+    padding: 16px 30px;
     border-radius: 30px;
     font-weight: 700;
     color: white;
@@ -24,6 +25,15 @@ body {
     display: flex;
 }
 
+
+#section-2 {
+
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-size: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
 #div-1 {
     margin-left: 5%;
     margin-right: 3%;
@@ -31,4 +41,14 @@ body {
 
 #div-1 h1 {
     font-size: 50px;
+}
+
+
+#about-img {
+    width: 50%;
+    padding-top: 5%;
+}
+
+#aboutpara {
+    padding-top: 8%;
 }
