@@ -4,6 +4,8 @@ body {
     margin: 0%;
 }
 
+
+
 .wide-half {
     width: 50%;
 }
@@ -56,4 +58,17 @@ body {
 
 #aboutpara {
     padding-top: 8%;
+}
+
+#my-recipiesdiv {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+#my-recipiesdiv h1 {
+    padding-left: 35%;
+}
+
+#my-recipiesdiv p {
+    text-align: center;
 }
